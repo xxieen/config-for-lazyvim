@@ -38,5 +38,10 @@ return {
       LazyVim.ui.bufremove,
       desc = "Close current buffer",
     },
+    {
+      "<leader>D",
+      LazyVim.ui.bufremoveall,
+      desc = "Close all buffers",
+    },
   },
 }
