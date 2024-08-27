@@ -1,6 +1,7 @@
 return {
   {
     "scottmckendry/cyberdream.nvim",
+    "scottmckendry/cyberdream.nvim", -- colorscheme for transparent, really nice
     lazy = false,
     priority = 1000,
     opts = {
