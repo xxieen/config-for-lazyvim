@@ -5,7 +5,7 @@ return {
     priority = 1000,
     opts = {
       -- Enable transparent background
-      transparent = true,
+      transparent = false,
 
       -- Enable italics comments
       italic_comments = true,
